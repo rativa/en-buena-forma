@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">En buena forma</string>
+    <string name="et_nombre">Nombre</string>
+    <string name="et_peso">Peso (kg)</string>
+    <string name="et_altura">Altura (cm)</string>
+    <string name="boton">EMPEZAR</string>
+
+    <string name="titulo_uno">Estirar cuerpo</string>
+    <string name="sub_uno">En está sección nos encargaremos de <br/>estirar extremidades empezando desde <br/>scabeza a pies </string>
+    <string name="et_vidas">Oportunidades: </string>
+
+    <string name="jugador_nombre">Usuario: </string>
+    <string name="total_score">Puntos: 0</string>
+    <string name="boton_sumar">REALIZADO</string>
+    <string name="et_respuesta">Respuesta</string>
+</resources>
