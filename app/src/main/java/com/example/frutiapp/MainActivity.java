@@ -75,9 +75,9 @@ public class MainActivity extends AppCompatActivity {
         }
 
         //Sonido del juego
-        mp = MediaPlayer.create(this, R.raw.alphabet_song);
-        mp.start();
-        mp.setLooping(true);
+        //mp = MediaPlayer.create(this, R.raw.alphabet_song);
+        //mp.start();
+        //mp.setLooping(true);
 
     }
 
